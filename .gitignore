@@ -1,0 +1,5 @@
+*.csproj
+*.sln
+Native/Library/
+Native/Logs/
+Native/obj/
