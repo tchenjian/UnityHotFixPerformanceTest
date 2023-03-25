@@ -3,3 +3,9 @@
 Native/Library/
 Native/Logs/
 Native/obj/
+HybridCLR/.vscode/
+HybridCLR/Library/
+HybridCLR/Temp/
+HybridCLR/UserSettings/
+HybridCLR/Logs/
+HybridCLR/obj/
