@@ -14,5 +14,5 @@ Native,xlua,InjectFix Unity版本 2020.3.46f1c1
 # 测试结果:
 ![Native](https://user-images.githubusercontent.com/18399445/227775371-491cd4db-b39f-44b9-ab49-1c6df3e9900b.png)
 ![HybridClr](https://user-images.githubusercontent.com/18399445/227775363-c72fc867-6255-4faa-a571-632d81f32004.png)
-![lua](https://user-images.githubusercontent.com/18399445/227775376-eb19e8a1-8e0b-4132-afd8-4a4448c68280.png)
+![image](https://user-images.githubusercontent.com/18399445/227776377-9ebecf91-8023-47e6-879c-4d021f046b91.png)
 ![InjectFix](https://user-images.githubusercontent.com/18399445/227775366-e1471685-9e12-44ef-b154-426fb9973197.png)
