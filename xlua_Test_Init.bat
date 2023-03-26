@@ -1,2 +1,2 @@
-xcopy .\14_Performance .\xLua\Assets\XLua\Examples\14_Performance\ /e /y /h /r /q
+xcopy .\XLua_Examples\*.* .\xLua\Assets\XLua\Examples\*.* /e /y /h /r /q
 pause
