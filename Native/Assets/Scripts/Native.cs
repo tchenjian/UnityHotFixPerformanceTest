@@ -95,15 +95,8 @@ public static class Native
                     continue;
                 }
 
-                if(isNative)
-                {
-                    if (!CheckFogUnlockForever(rowNew, colNew))
-                        continue;
-                }else{
-                    bool methodRes = checkFunc (rowNew, colNew, _serverFogInfo);
-                    if (!methodRes)
-                        continue;
-                }
+                if (!CheckFogUnlockForever(rowNew, colNew))
+                    continue;
 
                 int fogNewId = GetKeyByData (rowNew, colNew, _mapFogCount);
                 int fogPartId = GetFogPartId (fogNewId);
